@@ -1,6 +1,6 @@
 # 📊 Looker Execution Quality & Operations Dashboard
 
-🔗 [View Live Interactive Dashboard](https://datastudio.google.com/s/gYlNDJ42ztk)
+🔗 [View Live Interactive Dashboard](https://datastudio.google.com/reporting/db663300-db51-42af-9f8e-dbe0f888798d)
 
 This visualization layer provides real-time and post-trade visibility into order execution quality, transaction costs, liquidity depth, and operational risk states across synthetic crypto trading venues.
 
